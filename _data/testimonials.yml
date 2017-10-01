@@ -1,16 +1,8 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+- name: Li Li Wang
+  title: Parent
+  testimonial: "Just want to extend our great appreciation to you for the fun learning experience during the past 2 weeks. She really enjoyed the class. Although she will be heading back home early next week, the things she learnt will benefit her down the road."
   image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
+- name: Alina Arias
+  title: Camper
+  testimonial: "I had a lot of fun in your class and learned to build and create new things in Minecraft."
   image: img/item-img1.jpg
